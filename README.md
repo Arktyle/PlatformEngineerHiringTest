@@ -62,6 +62,10 @@ Desarrolla un servicio que cumpla con las siguientes funcionalidades:
 - **Redirección Efectiva**: Asegurar que el usuario sea redirigido hacia la URL larga original al ingresar una URL corta válida en su navegador.
 - **Servicio**: Se debe construir un backend y fronend.
 
+### Opcional pero ideal
+
+- **IaC**: Desplegar los componentes del desafios con IaC de preferencia.
+
 ## ¿Qué se validará cuando presentes?
 
 - **Funcionalidad API**: Realizaremos pruebas al API de creación y borrado para confirmar que las URLs cortas se crean y destruyen efectivamente.
